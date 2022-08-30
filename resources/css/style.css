@@ -1,0 +1,12 @@
+body {
+    font-family: Helvetica;
+    font-size: 22px;
+    color: seashell;
+    opacity: 90%;
+    background-color: black;
+}
+
+#nav-header {
+    height: 69px;
+    border-bottom: 1px solid seashell;
+}
