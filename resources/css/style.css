@@ -6,7 +6,12 @@ body {
     background-color: black;
 }
 
-#nav-header {
+.nav-header {
     height: 69px;
     border-bottom: 1px solid seashell;
+}
+
+img {
+    width: 300px;
+    height: 200px;
 }
